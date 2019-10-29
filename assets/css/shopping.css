@@ -1,0 +1,47 @@
+body {
+    background-color: #F5F3FF;
+}
+
+.empty-top {
+    background-color: #5C4D74;
+    height: 20px;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 100px;
+}
+
+.Items {
+    background-color: white;
+    width: 40%;
+    margin-left: 30%;
+    color: #5C4D74;
+    font-weight: bold;
+}
+
+.add-cart {
+    color: #5C4D74;
+    font-weight: bold;
+    margin-left: 70%;
+    margin-bottom: 5px;
+}
+
+.quantity {
+    margin-left: 100px;
+}
+
+input {
+    width: 15px;
+}
+
+.price {
+    margin-left: 40px;
+}
+p {
+    margin-left: 20%;
+}
+
+.empty-top2 {
+    background-color: #5C4D74;
+    height: 20px;
+    width: 100%;
+}
